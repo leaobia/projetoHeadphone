@@ -1,0 +1,13 @@
+.navegation{
+    width: 50px;
+    font-size: 2rem;
+    height: 50px;
+    background-color: #FFFF;
+    display: grid;
+    place-items: center;
+    font-weight: 700;
+}
+
+.produto__navegation-container{
+    display: flex;
+}

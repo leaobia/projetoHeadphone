@@ -1,0 +1,25 @@
+.produto{
+    grid-area: produto;
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   gap: 13px;
+}
+.produto__price{
+    background-color: #FFFF;
+    width: 200px;
+    height: 50px;
+    display: grid;
+    place-items: center;
+    color:  #76045D;
+    font-size: 2rem;
+    font-weight: 700;
+}
+.produto__img{
+    width: 44em ;
+    height: 29,99em ;
+}
+.produto__navegation-container{
+        display: flex;
+}
