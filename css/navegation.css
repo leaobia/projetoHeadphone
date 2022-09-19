@@ -6,8 +6,7 @@
     display: grid;
     place-items: center;
     font-weight: 700;
+    font-size: 3rem;
+    
 }
 
-.produto__navegation-container{
-    display: flex;
-}
