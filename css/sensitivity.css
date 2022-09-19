@@ -1,0 +1,24 @@
+.sensitivy{
+    height: 100px;
+    width: 200px;
+    background-color: black;
+    gap: 8 ;
+    display: flex;
+    color: #fff;
+    justify-content: center;
+    flex-direction: column;
+    font-size: .75rem;
+    align-items: center;
+}
+
+.sensitivy__number{
+    font-weight: 600;
+}
+
+.sensitivy__feature{
+    font-weight: 800;
+}
+
+.sensitivy__value{
+    font-weight: 400;
+}
